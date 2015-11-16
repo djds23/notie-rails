@@ -20,6 +20,11 @@ Or install it yourself as:
 
 See [notie.js](https://jaredreich.com/projects/notie.js/) for questions about the actual javascript library. Otherwise fill out an issue if there are rails issues and I will do my best to attend to them in a timely fashion.
 
+After you have installed notie-rails, install it to the asset pipeline by adding the following line to your `app/assets/javascripts/application.js`
+
+```ruby
+//= require notie-rails
+```
 ## Contributing
 
 1. Fork it ( https://github.com/djds23/notie-rails/fork )
