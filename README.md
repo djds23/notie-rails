@@ -23,7 +23,7 @@ See [notie.js](https://jaredreich.com/projects/notie.js/) for questions about th
 After you have installed notie-rails, install it to the asset pipeline by adding the following line to your `app/assets/javascripts/application.js`
 
 ```ruby
-//= require notie-rails
+//= require notie.js
 ```
 ## Contributing
 
